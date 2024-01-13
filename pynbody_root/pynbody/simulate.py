@@ -6,11 +6,6 @@ import shutil
 import numpy as np
 import matplotlib as mpl
 import matplotlib.pyplot as plt
-import astropy
-import sympy
-from astropy import units as u
-from astropy.constants import G
-import numba
 
 from . import integrators
 from . import plot_utils as pu
