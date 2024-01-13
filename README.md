@@ -2,12 +2,6 @@
 
 Generates videos of orbits and energy in a N-two-body simulation. 
 
-<!-- ![Video GIF Placeholder](figures/NFW_k/video_20.gif)
-![Alt text](figures/NFW_k/video_20.gif "NFW") -->
-
-![1e5 particles with Euler and Leapfrog time-step](example.mp4)
-
-
 ## Structure
 - `pynbody_root/pynbody/integrators.py`: 
   - Different numerical integrator functions defined
